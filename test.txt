@@ -1,2 +1,2 @@
 first line
-second line
+change on second line fixed
